@@ -1,0 +1,6 @@
+我是github测试01
+我是github测试01我做了修改
+ssh-keygen -t rsa -C "948228952@qq.com"
+
+git config --global user.name "bmxklYzj"  
+git config --global user.email "948228952@qq.com"  
